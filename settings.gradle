@@ -1,0 +1,3 @@
+rootProject.name='Desired Correction Mobile'
+include ':app'
+include ':openCVLibrary347'
