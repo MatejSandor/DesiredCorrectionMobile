@@ -63,7 +63,7 @@ Provides overviews of muscles involved in exercises.
 
 <img align="right" src="images/motion_tracking_camera.png" alt="alt text" width="400">
 
-<p style="text-align:right">
+<p>
 <h3>Camera mode</h3>
 <br>
 Interprets technique and from from a live video feed to evaluate whether the given exercise is being done correctly.
