@@ -49,7 +49,7 @@ Provides overviews of muscles involved in exercises.
 </p>
 
 
-<br><br><br><br><br><br><br><br>
+<br>
 
 <img align="left" src="images/motion_tracking.png" alt="alt text" width="400">
 
