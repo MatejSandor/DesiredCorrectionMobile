@@ -14,9 +14,11 @@ This concept has massive potential for expandability, including but not limited 
 
 ## About
 
-Cras elit ligula, aliquet a rutrum vel, tempus non lorem. Praesent efficitur, purus finibus interdum aliquam, felis nisl bibendum metus, non eleifend ante quam eu nunc. Maecenas aliquet non erat in pellentesque.
+CorrectionDesired Mobile App was developed using Java and OpenCV module. Its objective is to deliver performance review of essential lifts using motion tracking and machine learning. The app brings new dimension to weightlifting, accelerating your progress.
 
 ## Technologies
+
+This project was developed with the following technologies:
 
 <ul>
   <li>Java</li>
@@ -27,8 +29,6 @@ Cras elit ligula, aliquet a rutrum vel, tempus non lorem. Praesent efficitur, pu
 </ul>
 
 ## Visuals
-
-Nulla scelerisque turpis purus, at faucibus felis eleifend et. Sed porttitor ipsum vel ultricies posuere.
 
 <div width = "1000" >
 
