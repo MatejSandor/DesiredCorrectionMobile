@@ -51,12 +51,12 @@ Provides overviews of muscles involved in exercises.
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-<img align="left" src="images/motion_tracking.png" alt="alt text" width="200">
+<img align="left" src="images/motion_tracking.png" alt="alt text" width="400">
 
 <p>
 <h3>Motion tracking</h3>
 <br>
-Interprets technique and form from a live video feed to evaluate whether the given exercise is being done correctly.
+Interprets technique and from from a live video feed to evaluate whether the given exercise is being done correctly.
 </p>
 
 </div>
