@@ -48,7 +48,7 @@ Home screen with navigation to overviews of exercises, the camera mode for evalu
 Tracks motion to evaluate technique of various exercises.
 </p>
 
-<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
 
 <img align="left" src="images/muscle_overview.png" alt="alt text" width="200">
 
