@@ -23,9 +23,7 @@ This project was developed with the following technologies:
 <ul>
   <li>Java</li>
   <li>OpenCV</li>
-  <li>Java</li>
-  <li>Java</li>
-  <li>Java</li>
+  <li>Firebase</li>
 </ul>
 
 ## Visuals
