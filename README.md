@@ -61,7 +61,7 @@ Tracks motion to evaluate technique of various exercises.
 
 <br><br><br><br><br><br><br><br><br><br>
 
-<img align="right" src="motion_tracking_camera.png" alt="alt text" width="400">
+<img align="right" src="images/motion_tracking_camera.png" alt="alt text" width="400">
 
 <p style="text-align:right">
 <h3>Camera mode</h3>
