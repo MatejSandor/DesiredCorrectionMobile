@@ -31,10 +31,15 @@ This project was developed with the following technologies:
 <div width = "1000" >
 
 <img align="left" src="images/main_screen.png" alt="alt text" width="200">
-Home screen with navigation.
+Sample text.
 
 <img align="left" src="images/muscle_overview.png" alt="alt text" width="215">
+Sample text.
 
-<img src="images/motion_tracking.png" alt="motion_tracking" width="400"> <img src="images/motion_tracking_camera.png" alt="motion_tracking_camera" width="400">
+<img src="images/motion_tracking.png" alt="motion_tracking" width="400">
+Sample text.
+
+<img src="images/motion_tracking_camera.png" alt="motion_tracking_camera" width="400">
+Sample text.
 
 </div>
