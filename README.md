@@ -49,12 +49,22 @@ Provides overviews of muscles involved in exercises.
 </p>
 
 
-<br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
 
 <img align="right" src="images/motion_tracking.png" alt="alt text" width="400">
 
 <p style="text-align:right">
 <h3>Motion tracking</h3>
+<br>
+Tracks motion to evaluate technique of various exercises.
+</p>
+
+<br><br><br><br><br><br><br><br><br><br>
+
+<img align="right" src="motion_tracking_camera.png" alt="alt text" width="400">
+
+<p style="text-align:right">
+<h3>Camera mode</h3>
 <br>
 Interprets technique and from from a live video feed to evaluate whether the given exercise is being done correctly.
 </p>
