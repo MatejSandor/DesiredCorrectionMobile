@@ -4,7 +4,13 @@
 
 <img align="right" src="images/Logo.png" alt="alt text" width="200">
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tincidunt felis ante, in mattis turpis scelerisque nec. Duis turpis magna, fermentum ac ultrices non, blandit a elit. Maecenas ornare erat id egestas pretium. Maecenas pellentesque maximus elit, a laoreet dolor viverra a. Suspendisse et placerat nibh. In fringilla hendrerit sollicitudin. Integer ut facilisis libero, sit amet efficitur nulla. Integer lorem turpis, semper vel justo id, tristique hendrerit felis. Morbi molestie nisi ac maximus egestas. Proin finibus velit non ligula vulputate, quis convallis mi ornare. Proin dapibus justo vel lorem dignissim sollicitudin. Maecenas ultrices cursus mauris, non pretium odio pellentesque eu. Donec vel magna fringilla, ultricies nunc et, tempus eros.
+We are team of people that enjoy working out and lifting weights. Unfortunately, this sport does not come without its risks. When doing complex exercises and doing heavy loads, one technical mistake can lead to painful and long-lasting injuries. For this reason, it is absolutely essential to perform every exercise with correct form.
+
+The traditional way to learn these exercises correctly is to pay for a personal trainer. The modern way to learn them is using state of the art motion tracking and artificial intelligence, and having it right at your fingertips in your smartphone.
+
+Our concept uses object tracking to analyze the path of a barbell in a live video feed from your smartphone camera. The data can then be compared to data from exercises with correct form, acquired by training a machine learning model with videos of exemplary exercises.
+
+This concept has massive potential for expandability, including but not limited to TensorFlow-powered pose estimation for a comprehensive 3D image of joint and appendage motion.
 
 ## About
 
