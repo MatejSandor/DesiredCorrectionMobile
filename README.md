@@ -38,7 +38,7 @@ This project was developed with the following technologies:
 Home screen with navigation to overviews of exercises, the camera mode for evaluating form and more.
 </p>
 
-<br>
+<br><br><br><br><br><br><br>
 
 <img align="right" src="images/motion_tracking.png" alt="alt text" width="400">
 
@@ -58,7 +58,7 @@ Tracks motion to evaluate technique of various exercises.
 Provides overviews of muscles involved in exercises.
 </p>
 
-<br><br>
+<br><br><br><br><br><br><br>
 
 <img align="right" src="images/motion_tracking_camera.png" alt="alt text" width="400">
 
