@@ -53,7 +53,7 @@ Provides overviews of muscles involved in exercises.
 
 <img align="right" src="images/motion_tracking.png" alt="alt text" width="400">
 
-<p style="text-align:right">
+<p>
 <h3>Motion tracking</h3>
 <br>
 Tracks motion to evaluate technique of various exercises.
