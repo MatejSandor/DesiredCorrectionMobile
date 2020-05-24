@@ -30,10 +30,10 @@ This project was developed with the following technologies:
 
 <div width = "1000" >
 
-<img align="left" src="images/main_screen.png" alt="alt text" width="200">
+<img src="images/main_screen.png" alt="alt text" width="200">
 Sample text.
 
-<img align="left" src="images/muscle_overview.png" alt="alt text" width="215">
+<img src="images/muscle_overview.png" alt="alt text" width="215">
 Sample text.
 
 <img src="images/motion_tracking.png" alt="motion_tracking" width="400">
