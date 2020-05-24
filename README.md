@@ -14,7 +14,7 @@ Cras elit ligula, aliquet a rutrum vel, tempus non lorem. Praesent efficitur, pu
 
 <ul>
   <li>Java</li>
-  <li>Java</li>
+  <li>OpenCV</li>
   <li>Java</li>
   <li>Java</li>
   <li>Java</li>
