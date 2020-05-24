@@ -30,14 +30,8 @@ This project was developed with the following technologies:
 
 <div width = "1000" >
 
-<figure>
-  <img align="left" src="images/main_screen.png" alt="alt text" width="200">
-  <figcaption><br>Home screen with navigation.</figcaption>
-</figure>
-
-<figure>
-  <img align="left" src="images/muscle_overview.png" alt="alt text" width="200">
-  <figcaption><br>Muscle and exercise overview.</figcaption>
-</figure>
+<h3>Home screen</h3>
+<img align="left" src="images/main_screen.png" alt="alt text" width="200">
+<p>Home screen with navigation to overviews of exercises, the camera mode for evaluating form and more.
 
 </div>
