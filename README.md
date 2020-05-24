@@ -32,7 +32,7 @@ This project was developed with the following technologies:
 
 <figure>
   <img src="images/main_screen.png" alt="alt text" width="200">
-  <figcaption>Home screen with navigation.</figcaption>
+  <figcaption><br>Home screen with navigation.</figcaption>
 </figure>
 
 </div>
