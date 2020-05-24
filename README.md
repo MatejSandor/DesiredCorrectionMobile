@@ -53,7 +53,7 @@ Provides overviews of muscles involved in exercises.
 
 <img align="right" src="images/motion_tracking.png" alt="alt text" width="400">
 
-<p>
+<p style="text-align:right">
 <h3>Motion tracking</h3>
 <br>
 Interprets technique and from from a live video feed to evaluate whether the given exercise is being done correctly.
