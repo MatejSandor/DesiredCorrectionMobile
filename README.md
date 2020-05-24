@@ -42,7 +42,6 @@ Home screen with navigation to overviews of exercises, the camera mode for evalu
 
 <img align="right" src="images/motion_tracking.png" alt="alt text" width="400">
 
-<br><br><br><br>
 <p>
 <h3>Motion tracking</h3>
 <br>
