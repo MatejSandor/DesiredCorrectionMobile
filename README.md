@@ -40,6 +40,16 @@ Home screen with navigation to overviews of exercises, the camera mode for evalu
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
+<img align="right" src="images/motion_tracking.png" alt="alt text" width="400">
+
+<p>
+<h3>Motion tracking</h3>
+<br>
+Tracks motion to evaluate technique of various exercises.
+</p>
+
+<br><br><br><br><br><br><br><br><br><br>
+
 <img align="left" src="images/muscle_overview.png" alt="alt text" width="200">
 
 <p>
@@ -48,16 +58,6 @@ Home screen with navigation to overviews of exercises, the camera mode for evalu
 Provides overviews of muscles involved in exercises.
 </p>
 
-
-<br><br><br><br><br><br><br><br><br><br>
-
-<img align="right" src="images/motion_tracking.png" alt="alt text" width="400">
-
-<p>
-<h3>Motion tracking</h3>
-<br>
-Tracks motion to evaluate technique of various exercises.
-</p>
 
 <br><br><br><br><br><br><br><br><br><br>
 
