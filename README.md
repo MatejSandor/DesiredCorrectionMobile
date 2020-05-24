@@ -61,7 +61,7 @@ Provides overviews of muscles involved in exercises.
 
 <br>
 
-<img align="right" src="images/motion_tracking_camera.png" alt="alt text" width="400">
+<img align="left" src="images/motion_tracking_camera.png" alt="alt text" width="400">
 
 <p>
 <h3>Camera mode</h3>
