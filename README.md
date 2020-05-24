@@ -40,7 +40,7 @@ Home screen with navigation to overviews of exercises, the camera mode for evalu
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-<img align="top" src="images/muscle_overview.png" alt="alt text" width="200">
+<img align="left" src="images/muscle_overview.png" alt="alt text" width="200">
 
 <p>
 <h3>Muscle overview</h3>
