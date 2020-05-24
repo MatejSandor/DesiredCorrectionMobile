@@ -38,6 +38,7 @@ public class CameraActivity extends AppCompatActivity implements CameraBridgeVie
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        setContentView(R.layout.camera_activity);
 
         mJavaCameraView = (JavaCameraView) findViewById(R.id.my_camera_view);
         mJavaCameraView.setVisibility(SurfaceView.VISIBLE);
