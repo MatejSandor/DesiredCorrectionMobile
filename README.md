@@ -29,9 +29,12 @@ This project was developed with the following technologies:
 ## Visuals
 
 <div width = "1000" >
-
-<h3>Home screen</h3>
+  
 <img align="left" src="images/main_screen.png" alt="alt text" width="200">
-<p>Home screen with navigation to overviews of exercises, the camera mode for evaluating form and more.
 
+<p>
+<h3>Home screen</h3>
+<br>
+Home screen with navigation to overviews of exercises, the camera mode for evaluating form and more.
+</p>
 </div>
