@@ -31,8 +31,13 @@ This project was developed with the following technologies:
 <div width = "1000" >
 
 <figure>
-  <img src="images/main_screen.png" alt="alt text" width="200">
+  <img align="left" src="images/main_screen.png" alt="alt text" width="200">
   <figcaption><br>Home screen with navigation.</figcaption>
+</figure>
+
+<figure>
+  <img align="left" src="images/muscle_overview.png" alt="alt text" width="200">
+  <figcaption><br>Muscle and exercise overview.</figcaption>
 </figure>
 
 </div>
