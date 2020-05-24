@@ -58,6 +58,8 @@ Tracks motion to evaluate technique of various exercises.
 Provides overviews of muscles involved in exercises.
 </p>
 
+<br><br>
+
 <img align="left" src="images/motion_tracking_camera.png" alt="alt text" width="400">
 
 <p>
