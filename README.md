@@ -65,7 +65,7 @@ Provides overviews of muscles involved in exercises.
 <p>
 <h3>Camera mode</h3>
 <br>
-Interprets technique and from from a live video feed to evaluate whether the given exercise is being done correctly.
+Interprets technique from a live video feed to evaluate whether the exercise is being done correctly.
 </p>
 
 </div>
