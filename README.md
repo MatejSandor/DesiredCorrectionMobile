@@ -33,13 +33,4 @@ This project was developed with the following technologies:
 <img src="images/main_screen.png" alt="alt text" width="200">
 Sample text.
 
-<img src="images/muscle_overview.png" alt="alt text" width="215">
-Sample text.
-
-<img src="images/motion_tracking.png" alt="motion_tracking" width="400">
-Sample text.
-
-<img src="images/motion_tracking_camera.png" alt="motion_tracking_camera" width="400">
-Sample text.
-
 </div>
