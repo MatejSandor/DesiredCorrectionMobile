@@ -6,4 +6,7 @@
     <string name="exercise_list_item_squat">Squat</string>
     <string name="exercise_category_back">Back exercise</string>
     <string name="exercise_deadlift">DEADLIFT</string>
+    <string name="exercises_list_name">EXERCISES</string>
+    <string name="exercise_category_shoulders">Overhead press</string>
+    <string name="exercise_category_biceps">bicep curls</string>
 </resources>
