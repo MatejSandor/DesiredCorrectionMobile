@@ -38,7 +38,7 @@ This project was developed with the following technologies:
 Home screen with navigation to overviews of exercises, the camera mode for evaluating form and more.
 </p>
 
-<br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <img align="top" src="images/muscle_overview.png" alt="alt text" width="200">
 
