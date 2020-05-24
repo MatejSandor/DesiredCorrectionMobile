@@ -31,6 +31,7 @@ This project was developed with the following technologies:
 <div width = "1000" >
 
 <img src="images/main_screen.png" alt="alt text" width="200">
-Sample text.
+<center><h2>Home screen</h2></center>
+Allows navigation between overviews of exercises, the camera mode for evaluating technique, and more.
 
 </div>
