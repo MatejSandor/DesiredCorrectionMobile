@@ -24,13 +24,13 @@ public class CameraActivity extends AppCompatActivity implements CameraBridgeVie
         @Override
         public void onManagerConnected(int status) {
             switch (status) {
-                case BaseLoaderCallback.SUCCESS:
-                    {
+                case BaseLoaderCallback.SUCCESS: {
                     mJavaCameraView.enableView();
                     break;
-                    }
-                default: super.onManagerConnected(status);
-                break;
+                }
+                default:
+                    super.onManagerConnected(status);
+                    break;
             }
         }
     };
@@ -47,7 +47,7 @@ public class CameraActivity extends AppCompatActivity implements CameraBridgeVie
 
     @Override
     public void onCameraViewStarted(int width, int height) {
-        mRGBA = new Mat(width,height, CvType.CV_8UC4);
+        mRGBA = new Mat(width, height, CvType.CV_8UC4);
     }
 
     @Override
@@ -60,8 +60,8 @@ public class CameraActivity extends AppCompatActivity implements CameraBridgeVie
     public Mat onCameraFrame(CameraBridgeViewBase.CvCameraViewFrame inputFrame) {
         mRGBA = inputFrame.rgba();
         mRGBAT = mRGBA.t();
-        Core.flip(mRGBA,mRGBAT,1);
-        Imgproc.resize(mRGBAT,mRGBAT,mRGBA.size());
+        Core.flip(mRGBA, mRGBAT, 1);
+        Imgproc.resize(mRGBAT, mRGBAT, mRGBA.size());
         return null;
     }
 
@@ -73,7 +73,7 @@ public class CameraActivity extends AppCompatActivity implements CameraBridgeVie
     protected void onPause() {
         super.onPause();
 
-        if(mJavaCameraView != null) {
+        if (mJavaCameraView != null) {
             mJavaCameraView.disableView();
         }
     }
@@ -82,10 +82,10 @@ public class CameraActivity extends AppCompatActivity implements CameraBridgeVie
     protected void onResume() {
         super.onResume();
 
-        if(OpenCVLoader.initDebug()) {
+        if (OpenCVLoader.initDebug()) {
             mBaseLoaderCallback.onManagerConnected(BaseLoaderCallback.SUCCESS);
         } else {
-            OpenCVLoader.initAsync(OpenCVLoader.OPENCV_VERSION,this, mBaseLoaderCallback);
+            OpenCVLoader.initAsync(OpenCVLoader.OPENCV_VERSION, this, mBaseLoaderCallback);
         }
     }
 
@@ -93,7 +93,7 @@ public class CameraActivity extends AppCompatActivity implements CameraBridgeVie
     protected void onDestroy() {
         super.onDestroy();
 
-        if(mJavaCameraView != null) {
+        if (mJavaCameraView != null) {
             mJavaCameraView.disableView();
         }
     }
